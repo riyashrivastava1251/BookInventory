@@ -1,8 +1,3 @@
-# BookInventory
-@{
-    ViewBag.Title = "Home";
-}
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,16 +31,5 @@
                 <ul class="nav navbar-nav"></ul>
             </div>
         </div>
-    </div>
-
-    <div> Welcome to my book Inventory management system!!!!!!
-    dfijeirrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</div>
-
-    
-
-    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
-    <script src="~/Scripts/bootstrap.min.js"></script>
-    <p>Welocme to my inventory</p>
-</body>
-</html>
+  
 
